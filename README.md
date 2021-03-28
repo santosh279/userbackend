@@ -1,4 +1,4 @@
-# Sugarbox user api backend
+# User project API's 
 
 ## Get started :rocket:
 
@@ -22,8 +22,9 @@ Production: export NODE_ENV=production
 $ npm run dev (development) OR
 $ npm run prod (production) 
 ```
-#### To view swagger documentation of API's
-In the browser use, 
+## To view swagger documentation of API's
+#### In the browser use, 
 
 For development : ```http://localhost:8001/v1/api-docs```
+
 For production :  ```http://localhost:8000/v1/api-docs```
