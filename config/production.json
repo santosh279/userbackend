@@ -1,0 +1,14 @@
+{
+    "SERVER" : {
+        "PORT": 8000,
+        "HOST_NAME": "localhost",
+        "PROTOCOL": "http",
+        "API_VERSION": "v1",
+        "NAMESPACE": "SUGERBOX_USER_SERVER"
+    },
+    "DB" : {
+        "HOST_NAME": "localhost",
+        "DATABASE_NAME": "user",
+        "PORT": 27017
+    }
+}
